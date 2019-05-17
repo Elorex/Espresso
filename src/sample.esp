@@ -1,0 +1,5 @@
+x = 5
+l = 8
+read k
+read y
+print x + l + k + l
